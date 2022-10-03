@@ -1,0 +1,50 @@
+body {
+  background-image: linear-gradient(to bottom, #57c1eb 0%, #246fa8 100%);
+  padding: 30px;
+}
+
+.celsius-link {
+  color: #ffffff;
+}
+
+.weather-app {
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.emoji {
+  text-align: center;
+}
+form {
+  text-align: left;
+  padding: 3px 2px;
+  margin: 0 auto;
+}
+
+.container {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  background: #528bf5;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 60px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  color: #281069;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  color: #281069;
+}
+h5 {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  padding: 0 auto;
+  text-align: center;
+}
